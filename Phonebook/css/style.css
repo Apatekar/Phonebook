@@ -1,0 +1,42 @@
+body{
+	background-image: url("../img/background.jpg");
+}
+
+#wrap{
+	width: 250px;
+	margin : auto;
+}
+
+#search{
+	background-color: rgba(255, 251, 45, 0.3);
+	padding:10px;
+	margin-bottom:15px;
+	border:1px solid #696969;
+	border-radius:15px 15px 0px 15px;
+	
+}
+
+#search img{
+	max-width:230px;
+}
+
+#message{
+	background-color: #FFE680;
+	border:1px solid #696969;
+	border-radius:15px 15px 0px 15x;
+	text-align:center;
+	
+}
+#result{
+	padding: 10px;
+	background-color: rgba (255, 251, 45, 0.4);
+	margin-bottom: 2px;
+	border-radius:15px 0px 0px 0px;
+	border:1px solid #696969;
+	
+}
+
+#result img{
+	float: right;
+    max-height: 40px;
+	}
